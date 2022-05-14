@@ -2,10 +2,9 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
-		Developer: Luis Germán
-		Twitter: @LuisGermanDev
-		From: Bragança, Portugal.
+    Developer: Luis Germán
+    Twitter: @LuisGermanDev
+    From: Bragança, Portugal.
 
 # TECHNOLOGY COLOPHON
 
