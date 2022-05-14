@@ -1,0 +1,12 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+		Developer: Luis Germán
+		Twitter: @LuisGermanDev
+		From: Bragança, Portugal.
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5

@@ -1,12 +1,12 @@
 # Museum of Candy [![Netlify Status](https://api.netlify.com/api/v1/badges/24041f17-c3a1-4d2a-81fe-2383588e2486/deploy-status)](https://app.netlify.com/sites/blissful-fermi-ad5bc2/deploys)
 
-![Website's main screen](https://luisgrt.netlify.com/static/images/moc.jpg "Website's main screen")
+![Website's main screen](https://moc.luisgerman.dev/assets/img/cover.png "Website's main screen")
 
-Sample One Page Website made with Bootstrap 4.
+Sample One-Page Website made with Bootstrap 4.
 
 With an aesthetic look perfect to showcase your product. It is only the starting point.
 
-[View live](https://moc.luisgerman.tech/)
+[View live](https://moc.luisgerman.dev/)
 
 #### Credits
 
